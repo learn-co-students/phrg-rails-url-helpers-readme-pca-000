@@ -10,3 +10,5 @@ resources:
   - 0
 type: 
   - readme
+
+parent_template: git@github.com:learn-co-curriculum/rails-url-helpers-readme.git
