@@ -142,4 +142,9 @@ Now the application lets users navigate to `/register` to sign up, and you, the 
 
 Hopefully this lesson shed some light on the beauty of using route helper methods. If you run the tests again after making the above changes, you'll notice something interesting: all of the tests are still passing! If we had hardcoded the URLs in the links in our views, we would have had a major issue: all of our links to the show pages would have broken, along with our Capybara tests. However, by using the built-in helper methods, the links all updated automatically.
 
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-url-helpers-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-url-helpers-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Rails URL Helpers</p>
